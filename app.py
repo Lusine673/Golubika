@@ -56,7 +56,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # 3. Интерфейс (Заголовок)
-st.markdown('<div class="main-title">Прогнозирование средней массы ягод<br>голубики высокорослой</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title">Прогнозирование средней массы ягоды<br>голубики высокорослой</div>', unsafe_allow_html=True)
 
 # 4. Ввод данных (Центральная колонка)
 cultivar = st.selectbox(
